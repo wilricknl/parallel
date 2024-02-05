@@ -1,0 +1,7 @@
+{
+    "name": "parallel",
+    "version": "0.1.0",
+    "description": "GPU parallel program development using CUDA",
+    "homepage": "https://github.com/wilricknl/parallel",
+    "dependencies": []
+}
