@@ -39,6 +39,12 @@ add_executable(
     src/image_flip/image_stuff.c
     src/image_flip/main.c)
 
+# chapter 2: parallel image flip
+add_executable(
+        image_flip_parallel
+        src/image_flip_parallel/image_stuff.c
+        src/image_flip_parallel/main.c)
+
 # -----------------------------------------------------------------------------
 # TEST
 # -----------------------------------------------------------------------------

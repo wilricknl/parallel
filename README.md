@@ -2,11 +2,6 @@
 
 GPU parallel program development using CUDA.
 
-### Windows
-
-This project builds out of the box in Visual Studio 2022 with an integrated
-installation of vcpkg.
-
 ### Linux with CLion
 
 1. Install vcpkg from https://github.com/Microsoft/vcpkg. (I assume it is installed in `~/tools/`)
